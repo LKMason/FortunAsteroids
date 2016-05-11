@@ -1,0 +1,28 @@
+ =============================================
+||                                           ||
+||              FortunAsteroids              ||
+||                                           ||
+ =============================================
+ 
+ By Lee Mason (lm6g14)
+
+ 
+FortunAsteroids is a basic version of Asteroids 
+for the LaFortuna. The 'asteroids' are rendered 
+as squares, so perhaps a more apt name would be 
+'Space Squares'.
+ 
+----------------------------------------------
+|		 		  Controls	    	         |
+----------------------------------------------
+| LEFT       | Rotate Anti-Clockwise         |
+| RIGHT      | Rotate Clockwise              |
+| UP         | Thrust                        |
+| CENTER     | Shoot                         |
+----------------------------------------------
+
+* You are awarded a point for shooting an 
+	asteroid.
+* 5 points are deducted for dying.
+* You have a brief period of invincibility 
+	after dying.
